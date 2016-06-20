@@ -1,0 +1,11 @@
+###Blocks###
+
+###Ores###
+Cobalt Ore =
+Ardite Ore =
+
+###Tables###
+Part Builder =
+Stencil Table =
+Tool Station =
+
